@@ -4,3 +4,6 @@ sequence of words in each text into account.
 The labeled training set is tokenized and trained using an LSTM network. We also provide an
 unlabeled test set. The probabilities for predicting each class for all tweets in this test set are returned.
 The logistic loss wrt the true (hidden) labels are measured.
+
+#Architecture:
+<img src = "https://drive.google.com/open?id=1Y8VIwLVHf4pWXncXxNMIMZOZqDW5K9Qg" >
